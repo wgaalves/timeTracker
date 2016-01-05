@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Imax-NewTimeTracker.iml" filepath="$PROJECT_DIR$/Imax-NewTimeTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Imax-NewTimeTracker-grailsPlugins.iml" filepath="$PROJECT_DIR$/Imax-NewTimeTracker-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
